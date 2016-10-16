@@ -6,91 +6,90 @@ Also we will go into the DOM and file structure. There will be time spent on why
 
 
 
-## Lecture 1 
- * Introduction HackYourFuture
+## Lesson 1
+ * Introduction CodeYourFuture
  * Hello new students and mentors!
  * DOM structure
- * HTML syntax (How to work in a text editor, make a zip file)
+ * HTML syntax (How to work in a text editor)
  * CSS syntax
- * Linking to external files
+ * Linking to local files
 
 
 ## Homework
 
-### Read these Chapters from the <a href="https://www.frontendhandbook.com" target="_blank">Front-end Handbook</a>
- * <a href="https://www.frontendhandbook.com/what-is-a-FD.html" target="_blank">What Is a Front-End Developer?</a>
- * <a href="https://www.frontendhandbook.com/practice.html" target="_blank">Part I. The Front-End Practice</a>
+### Read these Chapters from the [Front-end Handbook](https://www.frontendhandbook.com)
 
-###Watch these videos:
- * <a href="https://www.youtube.com/watch?v=7_LPdttKXPc" target="_blank">How the Internet Works in 5 Minutes</a>
- * <a href="https://www.youtube.com/watch?v=WjDrMKZWCt0" target="_blank">How Web Browsers Work</a>
+  * [What Is a Front-End Developer?](https://www.frontendhandbook.com/what-is-a-FD.html)
+  * [Part I. The Front-End Practice](https://www.frontendhandbook.com/practice.html)
+
+### Watch these videos:
+  * [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
+  * [How Web Browsers Work](https://www.youtube.com/watch?v=WjDrMKZWCt0)
 
 ### Exercises:
- * Khan Academy: <a href="https://www.khanacademy.org/computing/computer-programming/html-css#concept-intro" target="_blank">Into to HTML/CSS: Making webpages </a>
-  
+  * Khan Academy: [Into to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css#concept-intro)
+
 
 ### Assignment:
- * Make your own web resume:
-    * One page 
-    * Two files: HTML and CSS
+  1. Set up a [Github](https://github.com) account
+    * Create a local repository named `<your-username>.github.com`
+
+  2. Make your own page cloning [Instagram](https://instagram.com)
+    * At least two pages
+    * Have styles in a separate CSS file
     * Include the following:
-  	    * Your personal info (name, place of birth, etc.)
-  	    * A picture
-  	    * A few lines about who you are
-  	    * Education
-  	    * Work experience
-    * Include the following:
-  	    * Different types of headings (h1, h2)
-  	    * A list (ul)
-  	    * img
-  	    * p
-  	    * Some css properties: margin, padding 
-  	    * Make sure that you page looks nice, and that your text is readable
-    * upload in a zip
+      * A homepage which is a 'stream' of images
+      * A picture
+    * Make sure that you page looks nice, and that your text is readable
+    * Upload your files to Github (See below)
+
+
+
 
 
 ### Extra material:
  * Next week reading/ practice (these topics will be discussed next week but If you want to read ahead):
-    * Next week we will talk about responsive web design and using media queries, if you already want to start reading about this subject check out this <a href="http://www.w3schools.com/css/css_rwd_intro.asp" target="_blank">Responsive Web Design - Introduction</a>. And take a look at this <a href="http://mediaqueri.es" target="_blank">website</a>
+    * Next week we will talk about responsive web design and using media queries, if you already want to start reading about this subject check out this [Responsive Web Design - Introduction](http://www.w3schools.com/css/css_rwd_intro.asp)". And take a look at this [website](http://mediaqueri.es)
 
 
-
-## Lecture 2 
- * Repeat/explain how HTML is structured, go through the entire html structure, explain all different elements
- * CSS
-    * Tips and tricks 
- * Media queries
- * Understand why/ how to use which language
- * How to work with the inspector
- * Resume presentations
+## Lesson 2
+  * Repeat/explain how HTML is structured, go through the entire html structure, explain all different elements
+  * CSS
+    * Tips and tricks
+  * Discuss code style
+    * Indenting code
+    *
+  * Media queries
+  * Understand why/ how to use which language
+  * How to work with the inspector
+  * Resume presentations
 
 ## Homework
 
 ### Read:
- * <a href="https://teamtreehouse.com/library/css3/media-queries/introduction" target="_blank">Introduction to media queries</a>
- * <a href="https://css-tricks.com/css-media-queries/" target="_blank">More about media queries</a>
- * <a href="http://www.w3schools.com/html/html5_syntax.asp" target="_blank">HTML syntax</a>
- * <a href="https://css-tricks.com/multiple-class-id-selectors/" target="_blank">Article about mulitiple ways to select classes and id's</a>
- * <a href="http://www.colorcombos.com/index.html" target="_blank">Read about nice color combinations</a>
+ * [Introduction to media queries](https://teamtreehouse.com/library/css3/media-queries/introduction)
+ * [More about media queries](https://css-tricks.com/css-media-queries/)
+ * [HTML syntax](http://www.w3schools.com/html/html5_syntax.asp)
+ * [Article about multiple ways to select classes and id's](https://css-tricks.com/multiple-class-id-selectors/)
+ * [Read about nice color combinations](http://www.colorcombos.com/index.html)
 
-### Exercises:
- * Udacity: <a href="https://www.udacity.com/course/responsive-web-design-fundamentals--ud893" target="_blank">Responsive web design fundamentals</a>
+### Exercises
+  * [Codecademy course on CSS Positioning](https://www.codecademy.com/courses/web-beginner-en-6merh/0/1)
+  * [CSS Selector learning game](https://flukeout.github.io/)
 
-### Assignment:
- * Remake an existing responsive website: choose one of the following
-   * https://www.rijksoverheid.nl
-   * http://www.awwwards.com
-   * https://www.bostonglobe.com
-   * https://www.thinkwithgoogle.com
-   * http://muumilaakso.tampere.fi/en/
-   * http://incredibletypes.com
-   * http://thenextweb.com
- * It should have an external CSS file
- * BEFORE you hand it in, read the <a href="http://www.w3schools.com/html/html5_syntax.asp" target="_blank">Style guide</a> again and check your files
+### Assignments:
+  1. Build A House: Fork [this repository](https://github.com/Code-Your-Future/build-a-house) and clone onto your computer.
+    * The instructions are in the README
+  2. Style A Website: Fork [this repository](https://github.com/Code-Your-Future/css-challenge) and clone onto your computer.
+    * The instructions are in the README
 
 
+### Further Learning:
+If you have completed all the assignments have a go at these:
+  * **Exercise:** Udacity: [Responsive web design fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
 
-## Lecture 3
+
+## Lesson 3
  * Presentations of students website remakes
  * Repeat topics of last two weeks:
    * Understand why/ how to use which language
@@ -118,7 +117,7 @@ Also we will go into the DOM and file structure. There will be time spent on why
     * BEFORE you hand it in, read the Style guide again and check your files
 
 
-### Exercises: 
- * <a href="https://www.sololearn.com/Course/JavaScript/">Intro Javascript </a> 
+### Exercises:
+ * [Intro Javascript](https://www.sololearn.com/Course/JavaScript/)
 
 
