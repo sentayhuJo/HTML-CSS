@@ -78,10 +78,8 @@ Also we will go into the DOM and file structure. There will be time spent on why
   * [CSS Selector learning game](https://flukeout.github.io/)
 
 ### Assignments:
-  1. Build A House: Fork [this repository](https://github.com/Code-Your-Future/build-a-house) and clone onto your computer.
-    * The instructions are in the README
-  2. Style A Website: Fork [this repository](https://github.com/Code-Your-Future/css-challenge) and clone onto your computer.
-    * The instructions are in the README
+  1. [Build A House](https://github.com/Code-Your-Future/build-a-house)
+  2. [Style A Website](https://github.com/Code-Your-Future/css-challenge)
 
 
 ### Further Learning:
