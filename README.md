@@ -85,6 +85,7 @@ Also we will go into the DOM and file structure. There will be time spent on why
 ### Further Learning:
 If you have completed all the assignments have a go at these:
   * **Exercise:** Udacity: [Responsive web design fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
+  * **Exercise:** [Responsive Web Design - Introduction](http://www.w3schools.com/css/css_rwd_intro.asp)
 
 
 ## Lesson 3
@@ -92,6 +93,7 @@ If you have completed all the assignments have a go at these:
  * Repeat topics of last two weeks:
    * Understand why/ how to use which language
    * Media-queries
+   * Responsive Websites
    * DOM
    * File structure, external links
  * How to find information on the web
