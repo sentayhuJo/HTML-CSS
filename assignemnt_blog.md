@@ -34,3 +34,6 @@ You can, but don't have to use below layout:
 What is javascript? Watch [video](https://www.youtube.com/watch?v=nItSSTwBvSU)
 
 Complete exercises on [sololearn](https://www.sololearn.com/Course/JavaScript/) up to module **3**.
+
+# Introduction to Git and Github
+- [Github Hello World](https://guides.github.com/activities/hello-world/)
