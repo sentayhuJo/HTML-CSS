@@ -1,7 +1,8 @@
 # Assignment
 
-## Practice HTML
+## Practice HTML & CSS
 
+Using CSS:
 - Make first letter in the paragraph larger then the rest?
 - Change background colour of every second paragraph to e.g. grey
 
