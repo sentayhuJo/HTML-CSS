@@ -107,17 +107,6 @@ If you have completed all the assignments have a go at these:
 
 ## Homework
 
-### Assignment:
- * Make a website that contains:
-    * A responsive grid made with flex-box
-    * A responsive grid made with CSS3 columns
-    * A responsive grid made with float left
-    * An animation using CSS keyframes
-    * Optional: use a SVG
-    * BEFORE you hand it in, read the Style guide again and check your files
+## Homework
 
-
-### Exercises:
- * [Intro Javascript](https://www.sololearn.com/Course/JavaScript/)
-
-
+For home assignment you can build a responsive blog and get ready for javascript. Follow following [article](assignemnt_blog.md)
