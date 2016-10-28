@@ -1,0 +1,55 @@
+/*
+	This is the blog assignment which style the blog page
+	Aouther : Sentayhu 
+	Date: 25/10/2016;
+
+*/
+
+body{
+	margin: 0 auto;
+	width: 70%;
+}
+
+.topHeader .resizeLogo img{
+	float: left;
+}
+.topHeader .resizeCoverImage {
+	margin:2% 0 0 2%;
+}
+.topHeader nav{
+	margin-bottom: 10px;
+}
+.topHeader nav ul{
+	list-style: none;
+	margin: 0 auto;
+}
+.topHeader nav ul li{
+	display: inline;
+	float: left;
+}
+.topHeader nav a:link, .topHeader nav a:visited{
+	color: red;
+	display: inline-block;
+	padding: 10px 10px;
+}
+
+.sidebar{
+	float: right;
+	width: 25%;
+	margin:1%;
+	padding: 1% 1% 1% 1%;
+}
+.newsSection{
+	background-color: white;
+	margin:2%;
+	width: 100%;
+	float:left; 
+}
+.newsSection article {
+	display: inline-block;
+	width: 40%;
+	padding: 3%;
+}
+.bottomFooter{
+	float: left;
+}
