@@ -7,17 +7,19 @@
 
 body{
 	margin: 0 auto;
-	width: 70%;
+	width: 60%;
 }
 
 .topHeader .resizeLogo img{
 	float: left;
 }
 .topHeader .resizeCoverImage {
-	margin:2% 0 0 2%;
+	float: left;
+	margin:2% 0% 0% 2%;
 }
 .topHeader nav{
-	margin-bottom: 10px;
+	margin-bottom:5%;
+	margin-left: 50%;
 }
 .topHeader nav ul{
 	list-style: none;
@@ -34,18 +36,20 @@ body{
 }
 
 .sidebar{
+	background-color: red;
 	float: right;
-	width: 25%;
-	margin:1%;
-	padding: 1% 1% 1% 1%;
+	width: 35%;
+	margin:2%;
+	
 }
 .newsSection{
 	background-color: white;
-	margin:2%;
+	margin:1%;
 	width: 100%;
 	float:left; 
 }
 .newsSection article {
+	background-color: red;
 	display: inline-block;
 	width: 40%;
 	padding: 3%;
